@@ -1,0 +1,5 @@
+-   id: check-comma-in-class-attributes
+    name: Check comma in class attributes
+    description: Checks if has comma in class attributes.
+    entry: check-comma-in-class-attributes
+    language: python
